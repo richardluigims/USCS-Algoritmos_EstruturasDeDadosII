@@ -19,10 +19,14 @@ int main()
     scanf ("%d", &anos);
     
     // processamento
-    dias = anos*365;
-    
-    // saída
-    printf ("Você já viveu %d dias", dias);
+    if (anos < 0) {
+        printf ("Idade não pode ser negativa!");   
+    }
+    else {
+        dias = anos*365;
+        
+        printf ("Você já viveu %d dias.", dias);
+    }
     
     return 0;
 }
