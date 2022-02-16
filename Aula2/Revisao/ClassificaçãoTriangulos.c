@@ -9,26 +9,26 @@ Autor: Richard Mantoan
 
 int main()
 {
-    float x1, x2, x3;
+    int i, tamanho = 3;
+    int x[tamanho];
     
     printf ("Vamos montar um triângulo?\n");
     
-    printf ("\nInsira o valor para o lado 1: ");
-    scanf ("%f", &x1);
-    printf ("Insira o valor para o lado 2: ");
-    scanf ("%f", &x2);
-    printf ("Insira o valor para o lado 3: ");
-    scanf ("%f", &x3);
+    for (i = 1; i <= tamanho; i++)
+    {
+        printf ("Insira o valor para o lado %d: ", i);
+        scanf ("%d", &x[i]);
+    }
     
     printf ("\n");
     
-    if ((x1 == x2) && (x2 == x3))
+    if ((x[1] == x[2]) && (x[2] == x[3]))
     {
         printf ("Seu triângulo é equilátero!");
     }
     else 
     {
-        if (x1 != x2 && x2 != x3 && x1 != x3)
+        if (x[1] != x[2] && x[2] != x[3] && x[1] != x[3])
         {
             printf ("Seu triângulo é escaleno!");
         }
