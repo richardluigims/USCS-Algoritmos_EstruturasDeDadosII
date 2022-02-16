@@ -2,12 +2,6 @@
 
 Objetivo: Classificar um triângulo de acordo com as medidas
 
-equilátero = todos iguais
-
-isósceles = dois iguais
-
-escaleno = todos diferentes
-
 Autor: Richard Mantoan
 
 *******************************************************************************/
