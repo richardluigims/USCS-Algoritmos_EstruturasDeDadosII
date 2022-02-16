@@ -26,21 +26,15 @@ int main()
     {
         printf ("Seu triângulo é equilátero!");
     }
-    if ((x1 == x2) && (x2 != x3))
+    else 
     {
-        printf ("Seu triângulo é isósceles!");
-    }
-    if ((x2 == x3) && (x3 != x1))
-    {
-        printf ("Seu triângulo é isósceles!");
-    }
-    if ((x1 == x3) && (x3 != x2))
-    {
-        printf ("Seu triângulo é isósceles!");
-    }
-    if ((x1 != x2) && (x2 != x3) && (x1 != x3))
-    {
-        printf ("Seu triângulo é escaleno!");
+        if (x1 != x2 && x2 != x3 && x1 != x3)
+        {
+            printf ("Seu triângulo é escaleno!");
+        }
+        else {
+            printf ("Seu triângulo é isósceles!");
+        }
     }
     
     return 0;
