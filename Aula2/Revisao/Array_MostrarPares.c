@@ -12,11 +12,9 @@ int main()
     int v[tamanho] = {0,5,1,4,2,7,8,3,6};
     int i;
     
-    for (i = 0; i < tamanho; i++)
+    for (i = 0; i < tamanho; i = i + 2)
     {
-        if (i % 2 == 0) {
-            printf ("%d\n", v[i]);
-        }
+        printf ("%d\n", v[i]);
     }
 
     return 0;
