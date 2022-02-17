@@ -14,7 +14,7 @@ int main()
     
     for (i = 0; i < tamanho; i = i + 2)
     {
-        printf ("%d\n", v[i]);
+        printf ("%d ", v[i]);
     }
 
     return 0;
