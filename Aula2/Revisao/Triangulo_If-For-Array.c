@@ -23,13 +23,13 @@ int main()
     
     printf ("\n");
     
-    if ((x[1] == x[2]) && (x[2] == x[3]))
+    if ((x[0] == x[1]) && (x[1] == x[2]))
     {
         printf ("Seu triângulo é equilátero!");
     }
     else 
     {
-        if (x[1] != x[2] && x[2] != x[3] && x[1] != x[3])
+        if (x[0] != x[1] && x[1] != x[2] && x[0] != x[2])
         {
             printf ("Seu triângulo é escaleno!");
         }
