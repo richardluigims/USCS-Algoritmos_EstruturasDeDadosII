@@ -3,6 +3,7 @@
 Objetivo: Classificar um triângulo de acordo com as medidas
 
 Autor: Richard Mantoan
+Data: 16/02/2022
 
 *******************************************************************************/
 #include <stdio.h>
