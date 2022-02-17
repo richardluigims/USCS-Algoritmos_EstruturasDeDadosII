@@ -13,12 +13,13 @@ int main()
     int x[tamanho];
     
     printf ("Vamos montar um triângulo?\n");
+    printf ("\n");
     
     for (i = 1; i <= tamanho; i++)
     {
         printf ("Insira o valor para o lado %d: ", i);
         scanf ("%d", &x[i]);
-    }
+    }  
     
     printf ("\n");
     
