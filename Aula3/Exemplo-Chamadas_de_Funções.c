@@ -8,13 +8,13 @@ Data: 23/02/2022
 
 int main2()
 {
-    printf("Hello World 2");
+    printf("\nHello World 2");
     return 0;
 }
 
 int main3()
 {
-    printf("Hello World 3");
+    printf("\nHello World 3");
     main2();
     return 0;
 }
