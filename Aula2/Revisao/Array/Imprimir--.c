@@ -2,7 +2,7 @@
 
 Objetivo: imprimir as casas do array de 8 até 0.
 
-Autor: Richard
+Autor: Richard Luigi Mantoan Stopa
 Data: 16/02/2022
 
 *******************************************************************************/
