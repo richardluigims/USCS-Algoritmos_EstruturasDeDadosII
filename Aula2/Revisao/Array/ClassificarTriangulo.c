@@ -2,7 +2,7 @@
 
 Objetivo: Classificar um triângulo de acordo com as medidas
 
-Autor: Richard Mantoan
+Autor: Richard Luigi Mantoan Stopa
 Data: 16/02/2022
 
 *******************************************************************************/
