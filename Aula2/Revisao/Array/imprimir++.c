@@ -1,6 +1,6 @@
 /******************************************************************************
 
-Objetivo: apresentar as casas do array de 0 até 8
+Objetivo: imprimir as casas do array de 0 até 8
 
 Autor: Richard Luigi Mantoan Stopa
 Data: 16/02/2022
