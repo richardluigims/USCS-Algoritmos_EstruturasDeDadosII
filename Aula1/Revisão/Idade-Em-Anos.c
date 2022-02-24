@@ -1,6 +1,6 @@
 /*
 
-1. Calcular a quantidade de dias de uma idade.
+Objetivo: Calcular a quantidade de dias de uma idade.
 
 Autor: Richard Luigi Mantoan Stopa
 Data: 09/02/2022
