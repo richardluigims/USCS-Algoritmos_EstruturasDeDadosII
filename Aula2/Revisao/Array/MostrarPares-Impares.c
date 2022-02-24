@@ -1,5 +1,7 @@
 /******************************************************************************
 
+Objetivo: imprimir apenas os números pares do array
+
 Autor: Richard Mantoan
 Data: 16/02/2022
 
