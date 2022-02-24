@@ -1,6 +1,8 @@
 /******************************************************************************
 
-Autor: Richard
+Objetivo: exemplificar o funcionamento de uma função
+
+Autor: Richard Luigi Mantoan Stopa
 Data: 23/02/2022
 
 *******************************************************************************/
