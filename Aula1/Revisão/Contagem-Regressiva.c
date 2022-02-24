@@ -2,7 +2,7 @@
 
 2. Impressão de contagem regressiva de um número inteiro até zero.
 
-Autor: Richard
+Autor: Richard Luigi Mantoan Stopa
 Data: 09/02/2022
 
 *******************************************************************************/
