@@ -2,7 +2,7 @@
 
 Objetivo: imprimir apenas os números pares do array
 
-Autor: Richard Mantoan
+Autor: Richard Luigi Mantoan Stopa
 Data: 16/02/2022
 
 *******************************************************************************/
