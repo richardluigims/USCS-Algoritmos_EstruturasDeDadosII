@@ -2,7 +2,7 @@
 
 Objetivo: exemplo da função void
 
-Autor: Richard
+Autor: Richard Luigi Mantoan Stopa
 Data: 16/02/2022
 
 *******************************************************************************/
