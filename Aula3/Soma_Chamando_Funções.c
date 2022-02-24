@@ -15,7 +15,7 @@ int main()
     int aux;
     
     aux = soma (10, 20);
-    printf("\nA soma = %d", aux);
+    printf("A soma = %d", aux);
     
     aux = soma (10, 30);
     printf("\nA soma = %d", aux);
