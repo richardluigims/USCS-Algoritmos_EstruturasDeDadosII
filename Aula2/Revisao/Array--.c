@@ -1,5 +1,7 @@
 /******************************************************************************
 
+Objetivo: imprimir as casas do array de 8 até 0.
+
 Autor: Richard
 Data: 16/02/2022
 
