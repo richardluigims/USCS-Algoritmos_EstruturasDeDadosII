@@ -2,7 +2,7 @@
 
 1. Calcular a quantidade de dias de uma idade.
 
-Autor: Richard
+Autor: Richard Luigi Mantoan Stopa
 Data: 09/02/2022
 
 */
