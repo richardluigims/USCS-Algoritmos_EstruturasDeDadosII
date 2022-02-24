@@ -4,7 +4,7 @@ Objetivo: criar e testar uma função que recebe um número como parâmetro e
           retorna se ele é par ou ímpar.
           O resultado deve ser apresentado na função main.
           
-Autor: Richard Mantoan
+Autor: Richard Luigi Mantoan Stopa
 
 Data: 23/02/2022
 
