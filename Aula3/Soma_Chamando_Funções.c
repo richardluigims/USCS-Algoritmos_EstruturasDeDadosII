@@ -29,7 +29,7 @@ int main()
     return 0;
 }
 
-int soma(int a, int b)
+int soma(int a, int b) // entrada pelo parênteses
 {
     return a + b;
 }
