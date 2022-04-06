@@ -7,6 +7,7 @@ Data: 06/04/2022
 
 *******************************************************************************/
 #include <stdio.h>
+#include <string.h> //para usar strcpy
 
 typedef struct Pessoa
 {
