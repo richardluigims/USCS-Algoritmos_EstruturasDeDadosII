@@ -19,7 +19,7 @@ int main()
 {
     PESSOA p;
     
-    strcpy(p.nome, "Paulo");
+    strcpy(p.nome, "Paulo"); // usa para vetor tipo char
     p.idade = 35;
     p.salario = 2000;
     
