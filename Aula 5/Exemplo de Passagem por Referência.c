@@ -11,7 +11,7 @@ Data: 16/03/2022
 
 int valor (int * a, int * b)
 {
-    *a = *a = 1;
+    *a = *a - 1;
     *b = *b + 2;
     
     printf ("Valores das variáveis dentro da função: \n");
