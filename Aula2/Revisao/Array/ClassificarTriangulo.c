@@ -1,22 +1,19 @@
 /******************************************************************************
-
 Objetivo: Classificar um triângulo de acordo com as medidas
-
 Autor: Richard Luigi Mantoan Stopa
 Data: 16/02/2022
-
 *******************************************************************************/
 #include <stdio.h>
 
 int main()
 {
-    int i, tamanho = 2;
+    int i, tamanho = 3;
     int x[tamanho];
     
     printf ("Vamos montar um triângulo?\n");
     printf ("\n");
     
-    for (i = 0; i <= tamanho; i++)
+    for (i = 0; i < tamanho; i++)
     {
         printf ("Insira o valor para o lado %d: ", i + 1);
         scanf ("%d", &x[i]);
