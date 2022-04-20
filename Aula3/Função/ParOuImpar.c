@@ -1,13 +1,10 @@
 /******************************************************************************
-
 Objetivo: criar e testar uma função que recebe um número como parâmetro e 
           retorna se ele é par ou ímpar.
           O resultado deve ser apresentado na função main.
           
 Autor: Richard Luigi Mantoan Stopa
-
 Data: 23/02/2022
-
 *******************************************************************************/
 #include <stdio.h>
 
@@ -15,7 +12,7 @@ int ParImpar();
 
 int main()
 {
-    int aux = ParImpar (4);
+    int aux = ParImpar (3);
     
     if (aux == 1)
     {
@@ -35,7 +32,7 @@ int ParImpar(int numero)
     
     if (numero % 2 == 0)
     {
-        retorno == 1;
+        retorno = 1;
     }
     
     return retorno;
